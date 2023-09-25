@@ -1,0 +1,158 @@
+body{
+    background-color: aqua;
+}
+.deze1{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid black;
+    background-color: white;
+    border-style: hidden;
+}
+.deze2{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid black;
+    background-color: white;
+    border-style: dotted;
+}
+.deze3{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid black;
+    background-color: white;
+    border-style: dashed;
+}
+.deze4{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid black;
+    background-color: white;
+    border-style: solid;
+}
+.deze5{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid black;
+    background-color: white;
+    border-style: double;
+    border-width: 5px;
+}
+.deze6{
+        color: red;
+        text-align: center;
+        height: 70px;
+        width: 8rem;
+        padding: 20px;
+        margin: 10px;
+        border-top: 4px solid gray;
+        border-left: 4px solid gray;
+        border-bottom: 4px solid white;
+        border-right: 4px solid white;
+        background-color: rgb(255, 255, 255);
+        border-style: groove;
+}
+.deze7{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px;
+    border-top: 4px solid gray;
+    border-left: 4px solid gray;
+    border-bottom: 4px solid white;
+    border-right: 4px solid white;
+    background-color: rgb(255, 255, 255);
+    border-style: ridge;
+}
+.deze8{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid white;
+    background-color: white;
+    border-style: inset;
+}
+
+.deze9{
+    color:red;
+    text-align: center;
+    height: 70px;
+    width: 8rem;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid white;
+    background-color: white;
+    border-style: outset;
+}
+
+.figura1{
+    color: black;
+    text-align: left;
+    height: 80px;
+    width: 130px;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid red;
+    background-color: #008000;
+    border-radius: 90px;
+}
+.figura2{
+    color: black;
+    text-align: left;
+    height: 80px;
+    width: 130px;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid red;
+    background-color: orange;
+    border-radius: 25% 10%;
+}
+.figura3{
+    color: black;
+    text-align: center;
+    height: 80px;
+    width: 130px;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid red;
+    background-color: cyan;
+    border-radius: 35px 10em 40%;
+}
+.figura4{
+    color: black;
+    text-align: left;
+    height: 80px;
+    width: 130px;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid red;
+    background-color: lightblue;
+    border-radius: 50px 50% 50cm 50em;
+}
+
+
